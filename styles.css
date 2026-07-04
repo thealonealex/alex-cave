@@ -1,13 +1,29 @@
-.outside-box {
-    height: 500px;
-    width: 600px;
-    background-color: #c770a0;
+body {
+    background-color: #c971a2;
+    padding: 20;
 }
 
-.inside-box {
-    height: 100px;
-    width: 300px;
+.imac {
+    height: 300;
+    width: 300;
+    padding: 40;
 }
-body {
-    background-color: #b3d1c2;
+
+.imac:hover {
+    transform: scale(1.05);
+    transition: all 150ms cubic-bezier(0.34, 1.56, 0.64, 1);
+    z-index: 5;
+    animation: hover 1s infinite;
+}
+
+@keyframes hover {
+    0% {
+        transform: rotate(-1deg);
+    }
+    50% {
+        transform: rotate(1deg);
+    }
+    100% {
+        transform: rotate(-1deg);
+    }
 }
