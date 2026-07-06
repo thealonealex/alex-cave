@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="931px" height="755px" viewBox="0 0 931 755" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Desk</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Wall" transform="translate(-90, -59)" fill="#C3C3C3">
+            <g id="Desk" transform="translate(90, 59)">
+                <g id="table" transform="translate(187, 462)">
+                    <rect id="table-body" x="0" y="0" width="744" height="42"></rect>
+                    <rect id="table-leg" x="702" y="42" width="42" height="251"></rect>
+                </g>
+                <rect id="bookshelf" x="0" y="0" width="187" height="755"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

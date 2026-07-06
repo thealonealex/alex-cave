@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="84px" viewBox="0 0 74 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Joystick</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Wall" transform="translate(-329, -437)">
+            <g id="Joystick" transform="translate(332, 419)">
+                <rect id="Rectangle-2" fill="#EEEEEE" x="27" y="35" width="14" height="52"></rect>
+                <circle id="Oval-3" fill="#E72325" cx="34" cy="33" r="15"></circle>
+                <path d="M7,87 L61,87 C66.5228475,87 71,91.4771525 71,97 L71,102 L-3,102 L-3,97 C-3,91.4771525 1.4771525,87 7,87 Z" id="Rectangle" fill="#C3C7CA"></path>
+                <rect id="Rectangle-3" fill="#E72325" x="45" y="83" width="15" height="4"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
