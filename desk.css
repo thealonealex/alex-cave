@@ -1,3 +1,50 @@
 body {
     background-color: #336f73;
 }
+.desktop {
+    margin-inline: auto;
+    display: flex;
+    aspect-ratio: 4 / 3;
+    max-height: 100%;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.desk {
+    position: absolute;
+    margin: auto;
+    height: 90%;
+    width: 90%;
+    z-index: 1;
+}
+.mac {
+    position: absolute;
+    height: 37%;
+    top: 23.5%;
+    right: 25%;
+}
+.book {
+    position: absolute;
+    height: 2.5%;
+    top: 57.5%;
+    right: 12%;
+}
+.photos {
+    position: absolute;
+    height: 14%;
+    top: 32%;
+    right: 12%;
+}
+.games {
+    position: absolute;
+    height: 12%;
+    top: 48.2%;
+    left: 30%;
+}
+.bsky {
+    position: absolute;
+    height: 12%;
+    top: 25%;
+    left: 28%;
+}
