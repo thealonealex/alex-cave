@@ -19,6 +19,7 @@ body {
     z-index: -1;
 }
 .mac {
+    transition: 0.2s;
     position: absolute;
     height: 37%;
     top: 23.1%;
@@ -49,5 +50,8 @@ body {
     left: 28%;
 }
 .mac:hover {
-    background-color: red;
+    transition: 0.3s;
+    z-index: 5;
+    animation: hover 1s;
+    transform: translateY(-10%) scale(1.05);
 }
