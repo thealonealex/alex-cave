@@ -16,12 +16,12 @@ body {
     margin: auto;
     height: 90%;
     width: 90%;
-    z-index: 1;
+    z-index: -1;
 }
 .mac {
     position: absolute;
     height: 37%;
-    top: 23.5%;
+    top: 23.1%;
     right: 25%;
 }
 .book {
@@ -39,7 +39,7 @@ body {
 .games {
     position: absolute;
     height: 12%;
-    top: 48.2%;
+    top: 48.1%;
     left: 30%;
 }
 .bsky {
@@ -47,4 +47,7 @@ body {
     height: 12%;
     top: 25%;
     left: 28%;
+}
+.mac:hover {
+    background-color: red;
 }
