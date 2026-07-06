@@ -26,24 +26,28 @@ body {
     right: 25%;
 }
 .book {
+    transition: 0.2s;
     position: absolute;
     height: 2.5%;
     top: 57.5%;
     right: 12%;
 }
 .photos {
+    transition: 0.3s;
     position: absolute;
     height: 14%;
     top: 32%;
     right: 12%;
 }
 .games {
+    transition: 0.2s;
     position: absolute;
     height: 12%;
     top: 48.1%;
     left: 30%;
 }
 .bsky {
+    transition: 0.3s;
     position: absolute;
     height: 12%;
     top: 25%;
@@ -54,4 +58,28 @@ body {
     z-index: 5;
     animation: hover 1s;
     transform: translateY(-10%) scale(1.05);
+}
+.games:hover {
+    transition: 0.3s;
+    z-index: 5;
+    animation: hover 1s;
+    transform: translateY(-10%) scale(1.05);
+}
+.book:hover {
+    transition: 0.3s;
+    z-index: 5;
+    animation: hover 1s;
+    transform: translateY(-50%) scale(1.05) rotate(-5deg);
+}
+.photos:hover {
+    transition: 0.3s;
+    z-index: 5;
+    animation: hover 1s;
+    transform: rotate(-10deg);
+}
+.bsky:hover {
+    transition: 0.3s;
+    z-index: 5;
+    animation: hover 1s;
+    transform: rotate(10deg);
 }
