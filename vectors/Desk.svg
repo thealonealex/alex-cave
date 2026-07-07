@@ -6,7 +6,7 @@
             <g id="Desk" transform="translate(90, 59)">
                 <g id="table" transform="translate(181, 462)">
                     <rect id="table-body" x="0" y="0" width="744" height="42"></rect>
-                    <rect id="table-leg" x="702" y="42" width="42" height="251"></rect>
+                    <rect id="table-leg" x="702" y="32" width="42" height="261"></rect>
                 </g>
                 <rect id="bookshelf" x="0" y="0" width="187" height="755"></rect>
             </g>
