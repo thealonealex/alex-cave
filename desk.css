@@ -6,6 +6,11 @@ img {
     user-select: none;
 }
 .desktop {
+    opacity: 1;
+    animation-name: fadeInOpacity;
+    animation-iteration-count: 500ms;
+    animation-timing-function: ease-in;
+    animation-duration: 1s;
     margin-inline: auto;
     display: flex;
     aspect-ratio: 4 / 3;
@@ -82,4 +87,12 @@ img {
     transition: 0.3s;
     z-index: 5;
     transform: rotate(10deg);
+}
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
