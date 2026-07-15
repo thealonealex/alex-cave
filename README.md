@@ -1,14 +1,15 @@
-# Alex Cave
-My personal website built with pure HTML and CSS. Heavily work in progress
+# Alex's Desk
+My personal website built with pure HTML and CSS. All assets created by myself!
 
 ![vector file of my computer](<iMac.png>)
 
 Check it out:
-***https://thealonealex.github.io/alex-cave***
+***https://thealonealex.github.io/alexs-desk***
 ## Features
-- A short introduction for me
-- A list of some of my projects
-- A totally non-interactable computer
-- No really you can't click it trust
+- A desk you can interact with
+- A bunch of awesome photos
+- A hub with my games
+- A link to my blog
+- Social & github redirects
 ## Credits
 This [stardance guide](https://stardance.hackclub.com/missions/personal-page/guide) for a quick intro to making a website :)
