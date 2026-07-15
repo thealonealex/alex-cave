@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="115px" height="20px" viewBox="0 0 115 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>book</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Wall" transform="translate(-864, -501)">
+            <g id="book" transform="translate(864, 501)">
+                <rect id="cover" fill="#3F2B21" x="0" y="0" width="115" height="20" rx="4"></rect>
+                <rect id="pages" fill="#D9D9D9" x="4" y="4" width="111" height="12"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="87px" height="107px" viewBox="0 0 87 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>photos</title>
+    <defs>
+        <linearGradient x1="48.2609357%" y1="51.1803878%" x2="85.5528628%" y2="101.137516%" id="linearGradient-1">
+            <stop stop-color="#BAD9C7" offset="0%"></stop>
+            <stop stop-color="#F4DB47" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="3.06161713e-15%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#018DFF" stop-opacity="0.620000005" offset="0%"></stop>
+            <stop stop-color="#FA00AF" offset="30.7692319%"></stop>
+            <stop stop-color="#C82813" offset="75%"></stop>
+            <stop stop-color="#003CFF" offset="100%"></stop>
+        </linearGradient>
+        <pattern id="pattern-3" width="100%" height="100%" patternUnits="objectBoundingBox">
+            <use xlink:href="#image-4"></use>
+        </pattern>
+        <image id="image-4" width="27" height="31" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAfCAYAAAAWRbZDAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAG6ADAAQAAAABAAAAHwAAAAADj/I5AAABUElEQVRIDe2VyW6EMBBEzb5cOCP+/zfj8DouhAgmopGiOYDUlBfcj2qbmSKE8LWG6yqKIjRNY1HXdThGVVVhH6WLkhYB40KJsix/hWA2l9a5RAApCUkuVVv9x87sjQ+OBJErqRuGG64rV4JI60z9yBQzczYcY7RyCUZCXKZDUqz9uEHWw2NzmYSXIK3RXpBUJzEB4qFve5lzpnxZxdHe1R7I56C+9MpZFqIJgeQAAG2pxpPTyzIqZ1aBKaEAbdsGQlDtIfrIGYt5awG6rgsEYMH1jNS9Z4AEGIYh9H1vYEDaJ5QKSN0wHAEZx9ECsEpIcgJHBEAre3ZT/pgAMk2TxdEViQUijYBuZ8uyhHmezR0HQk7kQgqMtul6c//FWIYbN/dv4w3G9ugL20rxpPERZfw5q34bp+sZfI++v6hp5UcckMcuzhK8zs6qcnvsX8v4DZ4REjNzomh3AAAAAElFTkSuQmCC"></image>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Wall" transform="translate(-874, -305)">
+            <g id="photos" transform="translate(874.9561, 305.71)">
+                <g id="photo" transform="translate(0, 0)">
+                    <rect id="frame" fill="#D9D9D9" transform="translate(23.4901, 24.9463) rotate(33.1155) translate(-23.4901, -24.9463)" x="8.49013579" y="4.94634755" width="30" height="40"></rect>
+                    <rect id="picture" fill="url(#linearGradient-1)" transform="translate(25.1291, 22.4336) rotate(33.1155) translate(-25.1291, -22.4336)" x="12.1290954" y="7.43363489" width="26" height="30"></rect>
+                </g>
+                <g id="photo" transform="translate(43.0439, 39.29)">
+                    <rect id="frame" fill="#D9D9D9" transform="translate(21.059, 23.989) rotate(-20.5202) translate(-21.059, -23.989)" x="6.05897871" y="3.98903552" width="30" height="40"></rect>
+                    <rect id="picture" fill="url(#linearGradient-2)" transform="translate(20.0074, 21.1794) rotate(-20.5202) translate(-20.0074, -21.1794)" x="7.00735194" y="6.17938928" width="26" height="30"></rect>
+                </g>
+                <g id="photo" transform="translate(7.044, 61.29)">
+                    <rect id="frame" fill="#D9D9D9" transform="translate(18.145, 22.2346) rotate(9.6656) translate(-18.145, -22.2346)" x="3.14502447" y="2.23455671" width="30" height="40"></rect>
+                    <rect id="picture" fill="url(#pattern-3)" transform="translate(18.6487, 19.2771) rotate(9.6656) translate(-18.6487, -19.2771)" x="5.64870868" y="4.27714378" width="26" height="30"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
